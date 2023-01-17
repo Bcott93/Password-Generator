@@ -23,7 +23,7 @@ The secondary objective was to ensure that the code would still function should 
 
 To view the project, please follow the links below:
 
-https://bcott93.github.io/password-generator/
+https://bcott93.github.io/Password-Generator/
 
 ![Example code](/assets/sample-code.jpg)
 
